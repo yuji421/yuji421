@@ -42,7 +42,7 @@ Javaを中心に学習・開発しています。
 
 ### 🎮 ポケモンGO 捕獲率シミュレーター
 Javaで作った捕獲確率計算プログラム  
-- **リポジトリ**：[PokemonGO-CaptureRate]()
+- **リポジトリ**：[PokemonGO-CaptureRate](https://github.com/yuji421/pokemononGo_catchRate_java)
 - 機能：
   - モンスターボール種類やカーブボール補正の反映
   - 個体値や天候ブーストの影響を計算
