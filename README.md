@@ -31,3 +31,19 @@
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuji421&show_icons=true&theme=tokyonight)
+
+Javaを中心に学習・開発しています。  
+現在は個人制作や練習コードをGitHubで公開中です。  
+**ぜひ下の作品をご覧ください！**
+
+---
+
+## 🛠️ 公開中の自作プロジェクト
+
+### 🎮 ポケモンGO 捕獲率シミュレーター
+Javaで作った捕獲確率計算プログラム  
+- **リポジトリ**：[PokemonGO-CaptureRate]()
+- 機能：
+  - モンスターボール種類やカーブボール補正の反映
+  - 個体値や天候ブーストの影響を計算
+- 言語：Java
