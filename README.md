@@ -57,7 +57,7 @@ Javaで作った捕獲確率計算プログラム
 
 ### 🛒 Tomcat ショッピングカート
 Tomcat の動作確認用に作った最小のショッピングカート（JSP + Servlet）
-- **リポジトリ**：[tomcat-simple-cart](https://github/yuji421/shoppingCart)
+- **リポジトリ**：[tomcat-simple-cart](https://github.com/yuji421/shoppingCart)
 - 機能：
   - 商品（コーヒー・紅茶・マフィン）の追加
   - セッションで数量管理（増減・削除・カートクリア）
