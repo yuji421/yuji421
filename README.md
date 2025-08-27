@@ -32,11 +32,11 @@
 ---
 
 ## 📘 Learning History
-- **Progate**：Java基礎コース修了
-- **YouTube**：Java入門講座で文法復習
-- **Paiza**：B〜Cランク問題に継続挑戦中
-- **ChatGPT**：問題の出題とコードレビューに活用
-- **Servlet / JSP / Tomcat：JSPとサーブレットを学習し、Tomcat上で簡易的なショッピングカートアプリを構築・動作確認済み**
+- **Progate**：Java基礎コース修了✅
+- **YouTube**：Java入門講座で文法復習✅
+- **Paiza**：B〜Cランク問題に継続挑戦中🔁
+- **ChatGPT**：問題の出題とコードレビューに活用🔁
+- **Servlet / JSP / Tomcat：JSPとサーブレットを学習し、Tomcat上で簡易的なショッピングカートアプリを構築・動作確認済み⭐（今ここ）**
 ---
 
 
