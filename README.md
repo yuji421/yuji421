@@ -54,3 +54,14 @@ Javaで作った捕獲確率計算プログラム
   - モンスターボール種類やカーブボール補正の反映
   - 個体値や天候ブーストの影響を計算
 - 言語：Java
+
+### 🛒 Tomcat ショッピングカート
+Tomcat の動作確認用に作った最小のショッピングカート（JSP + Servlet）
+- **リポジトリ**：[tomcat-simple-cart](https://github/yuji421/shoppingCart)
+- 機能：
+  - 商品（コーヒー・紅茶・マフィン）の追加
+  - セッションで数量管理（増減・削除・カートクリア）
+  - 合計金額の自動計算
+
+言語：Java（JSP / Servlet, Jakarta API）
+
